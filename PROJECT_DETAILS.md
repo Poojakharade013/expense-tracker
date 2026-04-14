@@ -57,3 +57,5 @@ The project leverages Docker for consistent environments:
 
 ---
 *Prepared for: College Project Documentation*
+
+~~ Pooja Kaharde
