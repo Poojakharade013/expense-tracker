@@ -58,7 +58,7 @@ function Dashboard({ refreshTrigger }) {
     <div className="space-y-6">
       {/* Period Selector */}
       <div className="flex flex-col sm:flex-row justify-between items-start sm:items-center gap-4">
-        <h2 className="text-2xl font-bold text-gray-800">Financial Overview</h2>
+        <h2 className="text-2xl font-bold text-gray-800">Pooja's Financial Overview</h2>
         <div className="flex space-x-3">
           <select
             value={selectedMonth}
